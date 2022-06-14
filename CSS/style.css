@@ -83,6 +83,7 @@
 
 .info-2 h1{
     text-align: center;
+    /* width: max-content; */
 }
 
 .info-2 img{
@@ -95,10 +96,55 @@
 
 .info-2 p{
     margin-top: 20px;
-    font-weight: bolder;
+    font-weight: bold;
     position: relative;
     left: 477px;
-    bottom: 105px;
+    bottom: 119px;
     font-size: larger;
     width: fit-content;
+}
+
+.info-2 h2{
+    position: relative;
+    left: 477px;
+    bottom: 110px;
+    font-size: 40px;
+    font-weight: bolder;
+    width: max-content;
+}
+
+
+.info-3 h1{
+    position: relative;
+    left: 480px;
+    width: max-content;
+    font-weight: bolder;
+}
+
+.info-3 p{
+    position: relative;
+    left: 480px;
+    width: max-content;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.info-3 img{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    left: 1175px;
+    bottom: 170px;
+}
+
+.divide img{
+    height: 180px;
+    width: 250px;
+    margin-top: 50px;
+}
+
+
+.info-sec{
+    width: -webkit-fill-available;
+    height: fit-content;
 }
