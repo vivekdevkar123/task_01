@@ -148,3 +148,34 @@
     width: -webkit-fill-available;
     height: fit-content;
 }
+
+
+.help h1{
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 33px;
+}
+
+.help h2{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 33px;
+}
+
+.help p{
+    text-align: center;
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+
+.cust-btn{
+    text-align: center;
+    margin-bottom: 33px;
+    width: 300px;
+}
+
+.social-btn{
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
